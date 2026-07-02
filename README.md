@@ -1,1 +1,1 @@
-# IHIS-Configurations-Management-Sagales
+# IHIS-Configuration-Management-Sagales
